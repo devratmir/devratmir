@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devratmir
 - 👀 I’m interested in Coding, Physics and Chemistry
-- 🌱 I’m currently learning Python & C
-- 📫 To reach me, send to ratmir@ratmirtim.it
+- 🌱 Python is my main and preferred language which is why you will see it in the majority of my projects. 
+- 📫 To reach me, send to ratmir@tratmir.com
 
 <!---
 devratmir/devratmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
